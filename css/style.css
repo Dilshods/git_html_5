@@ -1,0 +1,123 @@
+body{
+    border: 1px solid  red;
+    height: 100%;
+    padding: 20px;
+}
+
+nav{
+    border: 1px solid rgb(34, 0, 128);
+    height: 70px;
+    display: flex;
+}
+.valle{
+    margin-left: 30px;
+    margin-top: 15px;
+    font-size: 25px;
+}
+.mallea{
+    margin-left: 50px;
+    margin-top: 30px;
+    font-size: 20px;
+}
+.zamlle{
+    margin-left: 50px;
+}
+section{
+    border: 1px solid green;
+    height: 400px;
+    display: flex;
+
+}  
+
+.secozew{
+    border: 1px solid red;
+    width: 80px;
+    margin-bottom:  320px;
+    margin-left: 20px;
+    background-color: saddlebrown;
+}
+
+.redone{
+    border: 1px solid rgb(17, 0, 255);
+    width: 80px;
+    margin-bottom: 320px;
+    margin-left: 20px;
+    background-color: rgb(139, 19, 129);
+}
+.fanzer{
+    border: 1px solid red;
+    width: 80px;
+    margin-bottom: 320px;
+    margin-left: 20px;
+    background-color: sandybrown;
+}
+.henzer{
+    width: 80px;
+    margin-left: 100px;
+    
+}
+
+.refret{
+    border: 1px solid rgb(0, 255, 76);
+    height: 80px;
+    background-color: royalblue;
+}
+.marwe{
+    border: 1px solid red;
+    height: 80px;
+    margin-top: 20px;
+    background-color: salmon;
+}
+.normal{
+    border: 1px solid rgb(4, 0, 255);
+    height: 80px;
+    margin-top: 20px;
+    background-color: seagreen;
+}
+.farup{
+    border: 1px solid red;
+    width: 80px;
+    margin-bottom: 320px;
+    margin-left: 100px;
+    background-color: tan;
+}
+.garpat{
+    border: 1px solid rgb(4, 0, 255);
+    width: 80px;
+    margin-bottom: 320px;
+    margin-left: 20px;
+    background-color: wheat;
+}
+.narap0{
+    border: 1px solid rgb(0, 225, 255);
+    width: 80px;
+    margin-bottom: 320px;
+    margin-left: 20px;
+    background-color: yellow;
+}
+.qahhap{
+    width: 80px;
+    margin-left: 20px;
+     margin-left: 100px;
+     margin-right: 50px;
+}
+.redole{
+    border: 1px solid red;
+    height: 80px;
+    background-color: rgb(0, 255, 106);
+   
+}
+.morte{
+    border: 1px solid rgb(0, 247, 255);
+    height: 80px;
+    margin-top: 20px;
+    background-color: tomato;
+
+}
+
+.tupar{
+    border:1px solid rgb(17, 0, 255);
+    height: 80px;
+    margin-top: 20px;
+    background-color: yellowgreen;
+}
